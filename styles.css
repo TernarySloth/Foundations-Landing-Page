@@ -11,3 +11,7 @@ html {
 .header, .hero-section, footer {
     background: #1F2937;
 }
+
+.quote-section {
+    background: #E5E7EB;
+}
