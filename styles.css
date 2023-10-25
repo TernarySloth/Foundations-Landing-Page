@@ -15,3 +15,20 @@ html {
 .quote-section {
     background: #E5E7EB;
 }
+
+.logo {
+    margin-right: auto;
+}
+
+.container, ul {
+    display: flex;
+}
+
+ul {
+    gap: 18px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
