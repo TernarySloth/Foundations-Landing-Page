@@ -60,3 +60,7 @@ footer {
     display: flex;
     margin: auto;
 }
+
+.call-to-action-banner, button {
+    background: #3882F6;
+}
