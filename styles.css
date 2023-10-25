@@ -51,3 +51,12 @@ footer {
     color: #E5E7EB;
     padding: 20px;
 }
+
+.call-to-action-section {
+    padding: 80px 0;
+}
+
+.call-to-action-banner {
+    display: flex;
+    margin: auto;
+}
