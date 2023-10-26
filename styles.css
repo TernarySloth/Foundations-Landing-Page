@@ -42,6 +42,7 @@ a {
     display: flex;
     flex-direction: column;
     padding: 100px;
+    gap: 40px;
 }
 
 .card-header {
