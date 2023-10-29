@@ -23,7 +23,8 @@ html {
     /*font-weight must be extra-bold*/
 }
 
-.hero-secondary-text {
+.hero-secondary-text, 
+.header-link {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -51,8 +52,6 @@ ul {
 }
 
 .header-link {
-    font-size: 18px;
-    color: #e5e7eb;
     text-decoration: none;
 }
 
