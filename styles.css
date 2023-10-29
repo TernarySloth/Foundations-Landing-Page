@@ -41,7 +41,7 @@ a {
 .card-section {
     display: flex;
     flex-direction: column;
-    padding: 100px;
+    padding: 60px 90px 100px;
     gap: 40px;
 }
 
