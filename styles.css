@@ -12,6 +12,11 @@ html {
     background: #1F2937;
 }
 
+.header {
+    height: 40px;
+    padding: 10px 80px;
+}
+
 .hero-left {
     flex-direction: column;
 }
