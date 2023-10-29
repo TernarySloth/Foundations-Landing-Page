@@ -23,6 +23,11 @@ html {
     /*font-weight must be extra-bold*/
 }
 
+.hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .hero-left {
     flex-direction: column;
 }
