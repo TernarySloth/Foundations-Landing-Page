@@ -17,6 +17,10 @@ html {
     padding: 10px 80px;
 }
 
+.hero-main-text {
+    font-size: 48px;
+}
+
 .hero-left {
     flex-direction: column;
 }
