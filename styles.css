@@ -38,6 +38,16 @@ html {
     padding: 100px;
 }
 
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-attribution {
+    text-align: right;
+    font-weight: bold;
+}
+
 .logo {
     font-size: 24px;
     color: #f9faf8;
