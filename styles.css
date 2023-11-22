@@ -97,9 +97,13 @@ ul {
 }
 
 footer {
+    height: 100px;
     text-align: center;
     color: #E5E7EB;
     padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .call-to-action-section {
