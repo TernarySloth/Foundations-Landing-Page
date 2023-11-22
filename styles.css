@@ -142,6 +142,7 @@ button {
     border-radius: 7px;
     color: #f9faf8;
     font-size: 18px;
+    font-weight: bold;
 }
 
 .hero-left button {
