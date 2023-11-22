@@ -33,8 +33,15 @@ body {
     color: #e5e7eb;
 }
 
+.hero-section > .container {
+    justify-content: center;
+    gap: 40px;
+    padding: 140px 0;
+}
+
 .hero-left {
     flex-direction: column;
+    max-width: 460px;
 }
 
 .quote-section {
