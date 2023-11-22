@@ -98,6 +98,22 @@ ul {
     margin: auto;
 }
 
+.card-section .container {
+    gap: 60px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 160px;
+    gap: 10px;
+}
+
+.card p {
+    text-align: center;
+    font-size: 17px;
+}
+
 footer {
     height: 100px;
     text-align: center;
