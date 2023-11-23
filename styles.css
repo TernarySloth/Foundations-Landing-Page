@@ -51,6 +51,7 @@ body {
 .hero-left {
     flex-direction: column;
     max-width: 460px;
+    gap: 5px;
 }
 
 .quote-section {
