@@ -28,6 +28,8 @@ body {
 
 .header ul {
     padding-top: 6px;
+    gap: 18px;
+    list-style: none;
 }
 
 .hero-main-text {
@@ -89,11 +91,6 @@ body {
 
 .container, ul {
     display: flex;
-}
-
-ul {
-    gap: 18px;
-    list-style: none;
 }
 
 .header-link {
